@@ -7,6 +7,9 @@
 
 -Fixing huge spikes
 
--Defining mean, mode, median using NumPy
+-Defining mean, mode, median(central tendency) using NumPy
 
 -Visualizing distribution
+
+
+
